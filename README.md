@@ -5,5 +5,5 @@ Kenzi Convert if a FREE desktop application designed to facilitate the bulk conv
 
 Files Supported: jpg, png, gif, & webp.
 
-Ream more on my blog:
+Read more on my blog:
 https://www.mousa-alsheikh.com/post/22
