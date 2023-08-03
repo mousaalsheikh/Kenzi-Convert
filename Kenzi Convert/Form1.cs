@@ -104,7 +104,7 @@ namespace Kenzi_Convert
                                     {
                                         using (Graphics graphics = Graphics.FromImage(newImage))
                                         {
-                                            graphics.Clear(Color.White);
+                                            graphics.Clear(Color.Transparent);
                                             graphics.DrawImage(bitmap, Point.Empty);
                                             newImage.Save(path + @"/" + fileId + ".png", ImageFormat.Png);
                                         }
